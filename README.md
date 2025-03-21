@@ -1,6 +1,7 @@
 # Open-Source-Energy-System-Modeling-SS2025
 
 Copyright 2025, Johanna Zach
+
 This project is released under a MIT licence.
 
 
